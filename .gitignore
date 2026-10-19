@@ -1,0 +1,15 @@
+out/
+results/
+**/target/
+**/__pycache__/
+*.pyc
+.DS_Store
+*.pem
+*.pub.pem
+examples/rewrite_input_large.bin
+examples/route_input_large.bin
+examples/route/large/
+
+.venv/
+**/cache/
+**/raw_data/

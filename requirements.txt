@@ -1,0 +1,6 @@
+# Tested with Python 3.12. Do not use Python 3.14 for the paper pipeline:
+# numpy/pyarrow/faiss-cpu wheels may be unavailable.
+numpy
+pandas
+pyarrow
+faiss-cpu
